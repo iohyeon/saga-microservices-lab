@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account-service" options="-parameters" />
+      <module name="account-service.main" options="-parameters" />
+      <module name="account-service.test" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="common.main" options="-parameters" />
+      <module name="common.test" options="-parameters" />
+      <module name="ledger-service" options="-parameters" />
+      <module name="ledger-service.main" options="-parameters" />
+      <module name="ledger-service.test" options="-parameters" />
+      <module name="notification-service" options="-parameters" />
+      <module name="notification-service.main" options="-parameters" />
+      <module name="notification-service.test" options="-parameters" />
+      <module name="orchestrator" options="-parameters" />
+      <module name="orchestrator.main" options="-parameters" />
+      <module name="orchestrator.test" options="-parameters" />
+      <module name="risk-service" options="-parameters" />
+      <module name="risk-service.main" options="-parameters" />
+      <module name="risk-service.test" options="-parameters" />
+    </option>
+  </component>
+</project>
