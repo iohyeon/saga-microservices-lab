@@ -1,0 +1,8 @@
+rootProject.name = 'saga-laboratory'
+
+include 'common'
+include 'orchestrator'
+include 'account-service'
+include 'ledger-service'
+include 'risk-service'
+include 'notification-service'
