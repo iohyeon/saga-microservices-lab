@@ -1,0 +1,12 @@
+description = 'notification-service'
+
+dependencies {
+    // Common module
+    implementation project(':common')
+
+    // Web
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    // Kafka
+    implementation 'org.springframework.kafka:spring-kafka'
+}
